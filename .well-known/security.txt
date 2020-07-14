@@ -1,0 +1,4 @@
+Contact: mailto:dev+security@umi.top
+Encryption: https://umi-top.github.io/.well-known/pgp-key.txt
+Preferred-Languages: en, ru
+Canonical: https://umi-top.github.io/.well-known/security.txt
